@@ -6,7 +6,7 @@
 ---
 
 ### 🌟 About Me
-- 💻 Passionate about **Full-Stack Development** & **AI-driven Systems**  
+- 💻 Passionate about **Full-Stack Development** **Scalable Systems** **Machine Learning** & **AI-driven Systems**  
 - 🌱 Currently working on **Microservices + DevOps Pipelines**  
 -  
 - 📫 Reach me at: **appupadashetty@gmail.com **  
