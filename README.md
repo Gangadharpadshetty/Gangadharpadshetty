@@ -29,8 +29,7 @@
 
 ---
 
-### 🚀 Featured Projects
-- 🔹 [**GetPlaced**](https://github.com/GaGetPlaced) – Microservices-based Career Guidance Platform  
+
  
 
 ---
